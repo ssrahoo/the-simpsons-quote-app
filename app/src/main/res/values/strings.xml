@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TheSimpsonsQuoteApp</string>
+    <string name="switch_forest">Switch to Forest</string>
+    <string name="switch_boardwalk">Switch to Boardwalk</string>
+</resources>
