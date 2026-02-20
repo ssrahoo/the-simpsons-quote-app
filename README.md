@@ -2,7 +2,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 > "I'm not a bad guy! I work hard, and I love my kids. So why should I spend half my Sunday hearing about how I'm going to Hell?" — Homer J. Simpson
 
@@ -10,16 +10,16 @@ Welcome to **The Simpsons Quote App**, an Android application that randomly disp
 
 ---
 
-## 🚀 Features
+## Features
 
-🤣 50 iconic quotes from *The Simpsons*  
-🖼️ Character images and names for each quote  
-🔄 Random quote generator  
-🎨 Simple, clean, and fun UI  
+- 50 iconic quotes from *The Simpsons*  
+- Character images and names for each quote  
+- Random quote generator  
+- Simple, clean, and fun UI  
 
 ---
 
-## 📦 Installation & Usage 
+## Installation & Usage 
 
 - Clone repo:
    ```bash
@@ -29,7 +29,7 @@ Welcome to **The Simpsons Quote App**, an Android application that randomly disp
 - Open in Android Studio.
 - Build & run on your emulator.
 
-## 📦 Installation & Usage (if using an Android device)
+## Installation & Usage (if using an Android device)
 
 - Load project with Android Studio. 
 - On Android Studio, download Google USB Driver from Android Studio's SDK tools. Then, download and install the OEM Driver that corresponds to your phone https://developer.android.com/studio/run/oem-usb
@@ -38,25 +38,16 @@ Welcome to **The Simpsons Quote App**, an Android application that randomly disp
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | ![](img/preview.jpg) | 
 |:--:| 
 | *Examples* |
 
----
-
-## 🗺️ Roadmap / TODO
- Add button press effect
 
 ---
 
-## 🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
-
----
-
-## 🌐 Data Attribution
+## Data Attribution
 
 This app uses quotes and character data provided by the amazing [TheSimpsonsQuoteAPI](https://github.com/JLuboff/TheSimpsonsQuoteAPI). A huge thanks to them for compiling some of the best moments from Springfield!
 
